@@ -149,3 +149,7 @@ _archive
 *.gpkg
 *.parquet
 *.pgw
+
+# ignore data file
+fig
+cache
